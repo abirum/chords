@@ -2,23 +2,23 @@
 
 ## Daisy —
 * Vidéo Originale :
-* Chord : 
-
+* Chord : https://tabs.ultimate-guitar.com/tab/misc-traditional/daisy-bell-bicycle-built-for-two-chords-1726665
 
 ## Kan ɛanna ṭaḥoun — Fayrouz
 * Vidéo Originale : 
-* Chords : 
+* Chords : [le permalink ṭwil](https://github.com/abirum/chords/blob/main/Kan%20%C9%9Banna%20tahoun%20%E1%8D%A0%20Fayrouz/Kan%20%C9%9Banna%20tahoun%20%20%E1%8D%A0%20Fayrouz)
 
 ## -+ — Atina & Cali & El Dandee
 * Chords : https://www.acordesdcanciones.com/2019/12/aitana-cali-y-el-dandee-facil.html
 
 ## Halim Yousfi — Win 
 * Vidéo originale : https://youtu.be/Nx6GmSYQzvc
-* Chords (Normalement ṣwab) : [le permalink ṭwil](https://github.com/abirum/chords/blob/e5d8dc91adcdcf8714977208da5c11a9d515556b/Win%20%E1%8D%A0%20Halim%20Yousfi/Chords%20Win%20%E1%8D%A0%20Halim%20Yousfi
-)
+* Chords (Normalement ṣwab) : [le permalink ṭwil](https://github.com/abirum/chords/blob/e5d8dc91adcdcf8714977208da5c11a9d515556b/Win%20%E1%8D%A0%20Halim%20Yousfi/Chords%20Win%20%E1%8D%A0%20Halim%20Yousfi)
+
 ## Carlos Vives & Sebastian Yatra — Robarte un Beso  
 * Vidéo originale : https://www.youtube.com/watch?v=Mtau4v6foHA
 * Chords : https://tabs.ultimate-guitar.com/tab/carlos-vives/robarte-un-beso-chords-2097533
+
 ## Ed sheeran —photograph (capo 1)
 * Chords : https://www.guitartabsexplorer.com/sheeran-ed-Tabs/photograph-tab.php
 
