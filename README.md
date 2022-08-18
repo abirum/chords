@@ -19,13 +19,14 @@
 * Vidéo originale : https://www.youtube.com/watch?v=Mtau4v6foHA
 * Chords : https://tabs.ultimate-guitar.com/tab/carlos-vives/robarte-un-beso-chords-2097533
 
-## Ed sheeran —photograph (capo 1)
-* Chords : https://www.guitartabsexplorer.com/sheeran-ed-Tabs/photograph-tab.php
+## Ed sheeran — Photograph (capo 1)
+* Chords : https://www.dochords.com/45661/
+* Old link : https://www.guitartabsexplorer.com/sheeran-ed-Tabs/photograph-tab.php
 
 ## Keane — Somewhere only we know
 * Chords : https://www.e-chords.com/chords/keane/somewhere-only-we-know
 
-## Regiba spector —the call
+## Regiba spector — The call
 * Chords : https://www.e-chords.com/chords/regina-spektor/the-call
 
 ## Frozen — Let it go
@@ -37,8 +38,11 @@
 ## Shawn Mendes — Stitches
 * Chords : https://tabs.ultimate-guitar.com/tab/shawn_mendes/stitches_chords_1721601
 
-## Olly murs & demi lovato—Up
+## Olly murs & demi lovato — Up
 * Chords : https://tabs.ultimate-guitar.com/tab/olly_murs/up_chords_1684006
+
+## Elvis Presley — Cant Help Falling In Love
+* Chords : https://tabs.ultimate-guitar.com/tab/elvis-presley/cant-help-falling-in-love-chords-1086983
 
 ## Maroon5 — Leaving california (tanspose -)
 * Chords : https://tabs.ultimate-guitar.com/tab/maroon-5/leaving-california-chords-1516035
@@ -49,7 +53,7 @@
 ## Colum Scott — You are the resaon
 * Chords : https://tabs.ultimate-guitar.com/tab/calum_scott/you_are_the_reason_chords_2267805
 
-## Like i m gonna loose u
+## Like I'm gonna loose u
 * Chords : https://tabs.ultimate-guitar.com/tab/meghan_trainor/like_im_gonna_lose_you_chords_1715372
 
 ## Stero heart
@@ -58,16 +62,16 @@
 ## Subeme la radio
 * Chords : https://tabs.ultimate-guitar.com/tab/enrique_iglesias/subeme_la_radio_chords_1953467
 
-## Maroon5 — Locked away
+## Maroon 5 — Locked away
 * Chords : https://tabs.ultimate-guitar.com/tab/rock_city/locked_away_chords_1749374
 
-## Mars — Count on me
+## Bruno Mars — Count on me
 * Chords : https://tabs.ultimate-guitar.com/tab/bruno_mars/count_on_me_chords_958496
 
-## Perfect
+## Ed Sheeran — Perfect
 * Chords : https://tabs.ultimate-guitar.com/tab/ed_sheeran/perfect_chords_1956589
 
-## Zina
+## Amine Babylone — Zina
 * Chords : https://tabs.ultimate-guitar.com/tab/babylone/zina_chords_1473977
 * Tab : https://tabs.ultimate-guitar.com/tab/babylone/zina_tabs_1473980
 
@@ -86,14 +90,14 @@
 ## Fight song
 * Chords : https://tabs.ultimate-guitar.com/tab/rachel_platten/fight_song_chords_1725296
 
-## Happier 
+## Ed Sheeran — Happier 
 ![image](https://user-images.githubusercontent.com/33279801/121059174-116a7a00-c7b9-11eb-9490-b1325ad738df.png)
 * Intro v1 : https://tabs.ultimate-guitar.com/tab/ed_sheeran/happier_tabs_1959969
 * Intro v1 : https://tabs.ultimate-guitar.com/tab/ed_sheeran/happier_tabs_1959589
 * Intro v1 : https://www.guitartabsexplorer.com/sheeran-ed-Tabs/happier-intro.php
 * Chords : https://tabs.ultimate-guitar.com/tab/ed_sheeran/happier_chords_1956585
 
-## Kiss me
+## Ed Sheeran — Kiss me
 (V1 simple)
 https://tabs.ultimate-guitar.com/tab/ed_sheeran/kiss_me_chords_1183215
 (V2)
@@ -102,10 +106,10 @@ https://tabs.ultimate-guitar.com/tab/ed_sheeran/kiss_me_chords_1094116
 ## No good in goodbyes
 * Chords : https://tabs.ultimate-guitar.com/tab/the_script/no_good_in_goodbye_chords_1666678
 
-## The script—Rain
+## The script — Rain
 * Chords : https://tabs.ultimate-guitar.com/tab/the_script/rain_chords_2082595
 
-## Morat &alvaro soler — Yo contigo Tù cosnmigo
+## Morat & Alvaro Soler — Yo contigo Tù cosnmigo
 * Chords : https://tabs.ultimate-guitar.com/tab/2076481
 
 ## Rixton — Hotel ceiling
@@ -123,7 +127,7 @@ https://tabs.ultimate-guitar.com/tab/ed_sheeran/kiss_me_chords_1094116
 ## Pocket full of stars 
 * Chords : https://tabs.ultimate-guitar.com/tab/nine_black_alps/pocket_full_of_stars_chords_572957
 
-## jason mraz — could i love you anymore
+## Jason Mraz — could i love you anymore
 * Chords : https://tabs.ultimate-guitar.com/tab/2713125
 
 ## Gregoire — Soleil
@@ -151,6 +155,7 @@ https://tabs.ultimate-guitar.com/tab/ed_sheeran/kiss_me_chords_1094116
 ## Love is still the answer
 
 ## Falling in love at a coffee shop
+* Tab : https://tabs.ultimate-guitar.com/tab/landon-pigg/falling-in-love-at-a-coffee-shop-tabs-723647
 
 ## Frank Sinatra — Fly me to the moon (capo 3)
 * Chords : https://tabs.ultimate-guitar.com/tab/frank_sinatra/fly_me_to_the_moon_chords_335196
