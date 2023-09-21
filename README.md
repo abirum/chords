@@ -64,6 +64,7 @@
 
 ## Maroon 5 — Locked away
 * Chords : https://tabs.ultimate-guitar.com/tab/rock_city/locked_away_chords_1749374
+* Chords free : https://chordseasy.com/song/27614/locked-away/
 
 ## Bruno Mars — Count on me
 * Chords : https://tabs.ultimate-guitar.com/tab/bruno_mars/count_on_me_chords_958496
