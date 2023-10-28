@@ -46,7 +46,8 @@
 * Chords : https://tabs.ultimate-guitar.com/tab/elvis-presley/cant-help-falling-in-love-chords-1086983
 
 ## Maroon5 — Leaving california (tanspose -)
-* Chords : https://tabs.ultimate-guitar.com/tab/maroon-5/leaving-california-chords-1516035
+* Old link : https://tabs.ultimate-guitar.com/tab/maroon-5/leaving-california-chords-1516035
+* Chords : https://chordseasy.com/song/30118/leaving-california/
 
 ## Lost boy
 * Chords : https://tabs.ultimate-guitar.com/tab/ruth_b/lost_boy_chords_1706086
