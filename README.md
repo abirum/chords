@@ -59,7 +59,8 @@
 * Chords : https://tabs.ultimate-guitar.com/tab/meghan_trainor/like_im_gonna_lose_you_chords_1715372
 
 ## Stero heart
-* Chords : https://tabs.ultimate-guitar.com/tab/gym_class_heroes/stereo_hearts_chords_1093324
+* Old link : https://tabs.ultimate-guitar.com/tab/gym_class_heroes/stereo_hearts_chords_1093324
+* Chords : https://chordseasy.com/song/27611/stereo-hearts/
 
 ## Subeme la radio
 * Chords : https://tabs.ultimate-guitar.com/tab/enrique_iglesias/subeme_la_radio_chords_1953467
