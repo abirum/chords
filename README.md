@@ -30,7 +30,8 @@
 * Chords : https://www.e-chords.com/chords/regina-spektor/the-call
 
 ## Frozen — Let it go
-* Chords : https://www.e-chords.com/chords/frozen/let-it-go
+* Chords : https://tabs.ultimate-guitar.com/tab/misc-cartoons/frozen-let-it-go-chords-1445224
+* Old link : https://www.e-chords.com/chords/frozen/let-it-go
 
 ## John Lennon — Iamgine 
 * Chords : https://www.tabs4acoustic.com/tablatures-partitions/john-lennon-guitare/imagine-tab-acoustique-71.html
