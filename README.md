@@ -1,8 +1,11 @@
 # chords
 
+## Black & White – Chelsea Cutler
+* Chords : https://tabs.ultimate-guitar.com/tab/jeremy-zucker/black-and-white-chords-5425119
+
 ## Daisy —
 * Vidéo Originale :
-* Chord : https://tabs.ultimate-guitar.com/tab/misc-traditional/daisy-bell-bicycle-built-for-two-chords-1726665
+* Chords : https://tabs.ultimate-guitar.com/tab/misc-traditional/daisy-bell-bicycle-built-for-two-chords-1726665
 
 ## Kan ɛanna ṭaḥoun — Fayrouz
 * Vidéo Originale : 
