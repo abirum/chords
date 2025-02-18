@@ -1,5 +1,14 @@
 # chords
 
+## Someday over the rainbow 
+* Chords : https://tabs.ultimate-guitar.com/tab/2135261
+
+## Riptide 
+* Chords
+
+## Gambler man — Kenny Rogers 
+* Chirds
+
 ## Black & White – Chelsea Cutler
 * Chords : https://tabs.ultimate-guitar.com/tab/jeremy-zucker/black-and-white-chords-5425119
 
